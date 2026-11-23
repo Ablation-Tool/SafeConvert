@@ -1,0 +1,14 @@
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+shared/.build/
+shared/.swiftpm/
+apple/DerivedData/
+*.xcarchive
+*.ipa
+*.apk
+*.apk.sha256
+*.zip
+.DS_Store
+__pycache__/
